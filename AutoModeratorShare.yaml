@@ -1,0 +1,11 @@
+type: submission
+title+body (includes-word):
+    - "share"
+comment: |
+    AutoModerator matched "share." If this post is about sharing library cards, please be advised that's a violation of Rule #3. Please see the LibbyApp Wiki for information on legitimate ways to obtain a card: https://www.reddit.com/r/LibbyApp/wiki/index/
+---
+type: comment
+body (includes-word):
+    - "share"
+comment: |
+    AutoModerator matched "share." If this post is about sharing library cards, please be advised that's a violation of Rule #3. Please see the LibbyApp Wiki for information on legitimate ways to obtain a card: https://www.reddit.com/r/LibbyApp/wiki/index/
