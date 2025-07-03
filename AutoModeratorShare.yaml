@@ -8,4 +8,18 @@ type: comment
 body (includes-word):
     - "share"
 comment: |
-    AutoModerator matched "share." If this post is about sharing library cards, please be advised that's a violation of Rule #3. Please see the LibbyApp Wiki for information on legitimate ways to obtain a card: https://www.reddit.com/r/LibbyApp/wiki/index/
+    AutoModerator matched "share." If this comment is about sharing library cards, please be advised that's a violation of Rule #3. Please see the LibbyApp Wiki for information on legitimate ways to obtain a card: https://www.reddit.com/r/LibbyApp/wiki/index/
+---
+type: submission
+title+body (includes-word):
+    - "KU"
+    - "Kindle Unlimited"
+comment: |
+    There have been many spam posts lately promoting Kindle Unlimited. Spam is not allowed. Such posts will be deleted. 
+---
+type: comment
+body (includes-word):
+    - "KU"
+    - "Kindle Unlimited"
+comment: |
+    There have been many spam posts lately promoting Kindle Unlimited. Spam is not allowed. Such posts will be deleted. 
